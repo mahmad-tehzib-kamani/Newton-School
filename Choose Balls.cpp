@@ -13,6 +13,7 @@ The first and the only line of the input contains 2 space separated integers, N 
 Output
 Print the answer*/
 
+//Solution
 #include <bits/stdc++.h>
 using namespace std;
 
